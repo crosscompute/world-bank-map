@@ -1,6 +1,25 @@
+# vim
+*.sw[op]
+*~
+# python
+*.egg*
+*.py[co]
+.cache
+.coverage
+.ipynb_checkpoints
+.jupyter_ystore.db
+.pytest_cache
+.tox
+__pycache__
+build/
+dist/
+# crosscompute
+batches/
+datasets/
+debug/
 runs/
-.ipynb_checkpoints/
-.test.ipynb.py
-*.test.ipynb.py
-**/debug/
-batches/standard/debug/
+tests/
+.*.py
+.run.*
+.containerfile
+.containerignore

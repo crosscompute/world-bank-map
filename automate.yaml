@@ -1,8 +1,10 @@
 crosscompute: 0.9.4
-name: Geographic Data Visualization
-slug: geo-data-visualization
+name: Make Map from World Bank Data
+# name: Geographic Data Visualization
+# slug: geo-data-visualization
 description: Generate Colorful Maps to Visualize Global Data
 version: 0.0.1
+attribution_text: "[Abdourahamane Issaka Sani](https://github.com/AbdourahamaneIssakaSani) @ 2024"
 
 input:
   variables:

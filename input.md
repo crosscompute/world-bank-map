@@ -1,8 +1,8 @@
-# Welcome to Our Data Visualization Tool
+# Make a Map from World Bank Data
 
-Transform your data into vibrant maps effortlessly with our user-friendly Data Visualization Tool.
+Make a map PNG from World Bank data.
 
-To get started, follow these simple steps:
+To get started, follow these steps:
 
 - Visit <https://databank.worldbank.org>.
 - Select a database of your choice.
@@ -40,10 +40,9 @@ Now you're ready to test the tool with your own dataset!
 The tool adapts to various spreadsheet formats. Here's an example in a World Bank Data format:
 
 ```plaintext
-Country Name    Country Code    Series Name                              Series Code       2000 [YR2000]   2001 [YR2001]
-United States    USA             Population, total                         SP.POP.TOTL       282162411       284968955
-United States    USA             Population growth (annual %)              SP.POP.GROW       1.112768997     0.989741382
-United States    USA             CO2 emissions (metric tons per capita)    EN.ATM.CO2E.PC    20.46979674     20.17153693
+Country Name   Country Code  Series Name                   Series Code  2000 [YR2000]
+United States  USA           Population, total             SP.POP.TOTL  282162411    
+United States  USA           Population growth (annual %)  SP.POP.GROW  1.112768997  
 
 ```
 
