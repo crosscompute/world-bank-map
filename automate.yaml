@@ -4,7 +4,8 @@ name: Make Map from World Bank Data
 # slug: geo-data-visualization
 description: Generate Colorful Maps to Visualize Global Data
 version: 0.0.1
-attribution_text: "[Abdourahamane Issaka Sani](https://github.com/AbdourahamaneIssakaSani) @ 2024"
+copyright:
+  text: "[Abdourahamane Issaka Sani](https://github.com/AbdourahamaneIssakaSani) @ 2024"
 
 input:
   variables:
